@@ -1,6 +1,6 @@
 > 小米运动 `bash mimotion.sh $PARAMETER`  
 
-####  使用AC每天自动运行
+####  使用AC每天自动运 行 
 Fork后进入仓库,点击`Settings`,右侧栏点击`Secrets`,点击`New secret`,添加`PARAMETER`的值为脚本支持的参数,间隔符使用空格
 | PARAMETER参数 | 说明 |
 | -------- | ----- |
